@@ -5,11 +5,12 @@
         <div class="card h-100">
           <!-- <img src="..." class="card-img-top" alt="..." /> -->
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">作業名: PS Y軸 LM Guide交換</h5>
+            <div class="custom-card-text">Model: FX-101</div>
+            <div class="custom-card-text">Document Version: 1.00</div>
+            <hr style="" />
             <p class="card-text">
-              This is a wider card with supporting text below as a natural
-              lead-in to additional content. This content is a little bit
-              longer.
+              PS Y軸 LM Guide交換のためのCheck Sheetです。
             </p>
           </div>
           <div class="card-footer">

@@ -93,3 +93,63 @@ form.custom-form {
 .late {
   color: #dc3545;
 }
+
+
+
+/* Below are my own custom styles. */
+
+.li-styling {
+  background: #f4f4f8;
+  border: dodgerblue solid;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.li-styling-checked {
+  background: lightpink;
+  border: coral solid;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.li-text {
+  font-size: 20pt;
+  padding-bottom: 15px;
+  color: black;
+}
+
+.li-image {
+  padding: 20px;
+}
+
+.check-button {
+  margin: 15px 0px 15px 0px;
+}
+
+.custom-btn {
+  padding: 10px 0 10px 0;
+  font-size: 30pt;
+  border-radius: 50px;
+}
+
+.custom-label {
+  color: black;
+}
+
+.custom-p {
+  color: black;
+}
+
+
+.custom-card-text  {
+  color: black;
+}
+
+hr {
+  height: 3px;
+  background-color: #ff0000;
+  border: none;
+  color: #ff0000;
+  }

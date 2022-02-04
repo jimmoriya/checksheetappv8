@@ -6,7 +6,7 @@
     </p>
     <hr class="my-4" />
     <p>Click below to begin.</p>
-    <router-link class="btn btn-success btn-lg" to="/tasks">
+    <router-link class="btn btn-success btn-lg" to="/checksheetlist">
       View Checksheet List
     </router-link>
   </div>
